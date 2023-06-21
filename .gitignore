@@ -135,7 +135,8 @@ media/
 .media
 
 # FRONTEND
-
+frontend/node_modules
+backend/static_backend
 # dependencies
 /node_modules
 /.pnp
